@@ -1,0 +1,2 @@
+# proyecto-de-IA
+CODIGOS DEL PROYECTO
